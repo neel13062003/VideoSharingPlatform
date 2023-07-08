@@ -1,0 +1,16 @@
+YouTube
+      -web
+	      webinf
+		  display.jsp
+		  home.jsp
+		  signup.jsp
+	  -src
+          -con
+		  -java
+	  -build
+          -web	  
+		      webinf
+			  display.jsp
+			  home.jsp
+			  signup.jsp
+	
